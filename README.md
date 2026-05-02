@@ -1,4 +1,4 @@
-# desafios_em_python
+# Desafios em Python 🐍
 
 # 💻 Minha Jornada com Python
 
