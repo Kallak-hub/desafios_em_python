@@ -11,6 +11,6 @@ Estou desenvolvendo minhas habilidades em Python através de projetos práticos,
 - Contagem regressiva  
 - Gerador de senhas  
 - Reconhecimento facial (captura de foto)  
-- Codificador/decodificador de QR Code  
+- Codificador e decodificador de QR Code  
 - Consulta de informações de número de telefone  
 - Exportação de vídeo do YouTube por URL
