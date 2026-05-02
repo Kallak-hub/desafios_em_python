@@ -2,13 +2,13 @@
 
 💻 Checklist de Projetos em Python
 
-✅ Concluídos
-[V] Jogo Adivinhe o Número (computador)
-[V] Jogo Adivinhe o Número (usuário)
-[V] Pedra, papel e tesoura
-[V] Contagem regressiva
-[V] Gerador de senhas
-[V] Reconhecimento facial (captura de foto)
-[V] Codificador/decodificador de QR Code
-[V] Consulta de informações de número de telefone
-[V] Exportação de vídeo do YouTube por URL
+✅ Concluídos 
+Jogo Adivinhe o Número (computador), 
+Jogo Adivinhe o Número (usuário), 
+Pedra, papel e tesoura, 
+Contagem regressiva, 
+Gerador de senhas, 
+Reconhecimento facial (captura de foto), 
+Codificador/decodificador de QR Code, 
+Consulta de informações de número de telefone, 
+Exportação de vídeo do YouTube por URL, 
