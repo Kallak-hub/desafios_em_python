@@ -3,7 +3,7 @@ from phonenumbers import geocoder, carrier, timezone, PhoneNumberFormat
 import pycountry
 import requests
 
-numero_input = input("Digite o número: ")
+numero_input = input("Digite o número (adicione o +): ")
 
 try:
     numero = phonenumbers.parse(numero_input)
