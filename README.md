@@ -16,3 +16,4 @@ Estou desenvolvendo minhas habilidades em Python através de projetos práticos,
 - Exportação de vídeo do YouTube por URL
 - Criptografar e descriptografar mensagens com python
 - Tela de login simples com tkinter(CustomTkinter) e python
+- Scan de portas abertas em domínios/ip 
